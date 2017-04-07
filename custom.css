@@ -44,6 +44,9 @@
     background-color: #b6e8fc;
 }
 
-.fonts {
-    
+.jumbotron {
+  height:100%;
+  width:100%;  
+  padding-left:100px;
+  padding-right:100px;
 }
