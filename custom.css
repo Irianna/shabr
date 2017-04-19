@@ -78,7 +78,7 @@
 }
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
-      width: 80%;
+      width: 100%;
       margin: auto;
 }
       
