@@ -44,6 +44,27 @@
     background-color: #b6e8fc;
 }
 
+/* small */
+   
+   @media only screen and (min-width: 768px) {
+       h1 {
+           font-size: 150px;
+       }
+   }
+   /* medium */
+   
+   @media only screen and (min-width: 992px) {
+       h1 {
+           font-size: 200px;
+       }
+   }
+   /* large */
+   
+   @media only screen and (min-width: 1200px) {
+       h1 {
+           font-size: 250px;
+       }
+   }
 .jumbotron {
   height:100%;
   width:100%;  
