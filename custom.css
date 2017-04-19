@@ -48,21 +48,21 @@
    
    @media only screen and (min-width: 768px) {
        h1 {
-           font-size: 120px;
+           font-size: 110px;
        }
    }
    /* medium */
    
    @media only screen and (min-width: 992px) {
        h1 {
-           font-size: 180px;
+           font-size: 170px;
        }
    }
    /* large */
    
    @media only screen and (min-width: 1200px) {
        h1 {
-           font-size: 230px;
+           font-size: 220px;
        }
    }
 .jumbotron {
